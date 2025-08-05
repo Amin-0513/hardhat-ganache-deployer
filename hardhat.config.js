@@ -6,7 +6,7 @@ module.exports = {
     localganache: {
       url: "http://127.0.0.1:7545", // ← replace with your Ganache RPC URL if different
       accounts: [
-        "0x5ba4667eb5e3d7447ebf78027c578e008a83f302d36b29e58af078d738465d15"
+        "0x5ba4667eb5e3d7447ebf78027c578e008a83f302d36b"
       ],
     },
   },
