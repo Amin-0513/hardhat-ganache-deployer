@@ -1,7 +1,7 @@
 # Ganache + Hardhat Project
 
 <p align="center">
-  <img src="./a.jpg" alt="Ganache + Hardhat" />
+  <img src="./A.jpg" alt="Ganache + Hardhat" />
 </p>
 
 This project demonstrates how to deploy Ethereum smart contracts to a local Ganache blockchain using **Hardhat**. It’s ideal for developers who want to build, test, and interact with smart contracts in a fast, secure, and repeatable local environment.
